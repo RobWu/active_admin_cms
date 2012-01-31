@@ -1,0 +1,5 @@
+Other try to integrates comfortable_mexican_sofa into active_admin.
+
+1. rake db:migrate
+2. start server
+3. visit http://localhost:3000/admin
